@@ -1,0 +1,8 @@
+{
+  "name": "Rap",
+  "short_name": "Rap",
+  "lang": "en-US",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0052CC"
+}
