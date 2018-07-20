@@ -14,7 +14,7 @@ export default class SignupPage extends Component<*, *> {
   render() {
     return (
       <div>
-        Signup
+
       </div>
     )
   }
